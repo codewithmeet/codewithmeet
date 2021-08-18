@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Meet Mandaviya</h1>
+<h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Meet Mandaviya</h1>
 <h3 align="center">A professional full stack developer!</h3>
 
 - 🔭 I’m currently working on **multiple frontend and backend projects using ReactJS and Nodejs**
