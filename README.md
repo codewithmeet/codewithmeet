@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "auto" src="https://cdn.pixabay.com/photo/2021/07/29/16/16/lightning-6507519_1280.jpg" alt="cover" />
+<img width="100%" height = "250px" style="object-fit:cover" src="https://cdn.pixabay.com/photo/2021/07/29/16/16/lightning-6507519_1280.jpg" alt="cover" />
 </div>
 
 <h1>Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Meet Mandaviya</h1>
