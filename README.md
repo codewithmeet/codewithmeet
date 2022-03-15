@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **multiple frontend and backend projects using ReactJS and Nodejs**
 
-- 🌱 I’m currently learning **design patterns, SOLID Principles and architecture in depth!**
+- 🌱 I’m currently diving deep in **design patterns, SOLID Principles and architectures!**
 
 - 💬 Ask me about **ReactJs, Nodejs and Anything related to JavaScript!**
 
