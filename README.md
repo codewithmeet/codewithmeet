@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/code_with_meet" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="code_with_meet" />
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/meet-mandaviya/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/meet-mandaviya/" /></a>
+<a href="https://linkedin.com/in/meet-mandaviya/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/meet-mandaviya/" /></a>
 
 </p>
 
