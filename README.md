@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ReactJs, Nodejs and Anything related to JavaScript!**
 
-- 📫 Reach me at **codewithmeet@gmail.com**
+- 📫 Reach me at **hello@meetmandaviya.com**
 
 - ⚡ Fun  about me **I think I am little buggy!**
 
